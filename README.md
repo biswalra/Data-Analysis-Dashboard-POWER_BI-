@@ -31,7 +31,12 @@ Dashboard Interaction -  <a href="https://github.com/biswalra/Data-Analysis-Dash
 - Education field analysis helps identify which backgrounds have higher employee turnover.  
 
 ## Project Screenshot
-<img width="1641" height="908" alt="HR Analytics Dashboard" src="" />
+<img width="1641" height="908" alt="HR Analytics Dashboard" src="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/Screenshot%202026-03-13%20193549.png" />
+
+## Final Conclusion:
+## Conclusion
+
+This HR Analytics Dashboard project helps visualize and analyze employee data to better understand workforce trends and attrition patterns. By using interactive Power BI visualizations, the dashboard highlights key insights related to employee demographics, job satisfaction, and departmental attrition. These insights can help organizations make informed decisions to improve employee retention and overall workforce management.
 
 
 
