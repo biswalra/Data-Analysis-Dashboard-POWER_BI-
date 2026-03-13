@@ -2,7 +2,7 @@
 ## Project Objective
 To analyze employee data and visualize key HR metrics like attrition, demographics, and job satisfaction to support better workforce decision-making. 📊
 
-# DataSet Used
+## DataSet Used
 <a href="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/HR%20DATA_Excel%20(1).xlsx"> HR Data </a>
 
 ## KPI-Based Questions
