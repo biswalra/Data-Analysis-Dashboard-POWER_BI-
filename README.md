@@ -16,4 +16,5 @@ To analyze employee data and visualize key HR metrics like attrition, demographi
 - What is the job satisfaction level across different job roles?
 - Which educational field has the highest attrition? 
 
-Dashboard Interaction <a href=
+Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/project.pbix">  View Dashbord </a>
+
