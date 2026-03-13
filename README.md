@@ -16,7 +16,7 @@ To analyze employee data and visualize key HR metrics like attrition, demographi
 - What is the job satisfaction level across different job roles?
 - Which educational field has the highest attrition? 
 
-Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/project.pbix">  View Dashbord </a>
+Dashboard Interaction -  <a href="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/project.pbix">  View Dashbord </a>
 
 ## Tools Used
 - Power BI
@@ -31,7 +31,7 @@ Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboa
 - Education field analysis helps identify which backgrounds have higher employee turnover.  
 
 ## Project Screenshot
-<img alt="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/Screenshot%202026-03-13%20193549.png" />
+<img width="1641" height="908" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/cbe132b3-df34-4703-b203-a9af9b3c0c8e" />
 
 
 
