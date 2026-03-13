@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard-POWER_BI-
-This project presents an HR Analytics Dashboard built using Power BI to analyze employee data and workforce trends,department-wise turnover, job satisfaction, and age distribution.
+# HR (Analysis Dashboard using PowerBi)
+## Project Objective
+To analyze employee data and visualize key HR metrics like attrition, demographics, and job satisfaction to support better workforce decision-making. 📊
+
+# DataSet Used
+
