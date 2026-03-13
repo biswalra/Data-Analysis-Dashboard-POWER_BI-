@@ -31,7 +31,7 @@ Dashboard Interaction -  <a href="https://github.com/biswalra/Data-Analysis-Dash
 - Education field analysis helps identify which backgrounds have higher employee turnover.  
 
 ## Project Screenshot
-<img width="1641" height="908" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/cbe132b3-df34-4703-b203-a9af9b3c0c8e" />
+<img width="1641" height="908" alt="HR Analytics Dashboard" src="" />
 
 
 
