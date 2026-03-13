@@ -18,3 +18,25 @@ To analyze employee data and visualize key HR metrics like attrition, demographi
 
 Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/project.pbix">  View Dashbord </a>
 
+## Tools Used
+- Power BI
+- Excel
+- Data Visualization
+- 
+## Key Insights
+- The dashboard shows the overall employee attrition rate and total workforce distribution.
+- Certain departments and job roles experience higher attrition compared to others.
+- Most employees fall within a specific age group, helping HR understand workforce demographics.
+- Job satisfaction levels vary across different roles, which may influence employee retention.
+- Education field analysis helps identify which backgrounds have higher employee turnover.  
+
+## Project Screenshot
+
+
+
+
+
+
+
+
+
