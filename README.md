@@ -31,6 +31,7 @@ Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboa
 - Education field analysis helps identify which backgrounds have higher employee turnover.  
 
 ## Project Screenshot
+<img alt="https://github.com/biswalra/Data-Analysis-Dashboard-POWER_BI-/blob/main/Screenshot%202026-03-13%20193549.png" />
 
 
 
